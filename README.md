@@ -1,2 +1,11 @@
 # Lecture-Notes-in-Nuclear-Science-UCAS
-Notes on some courses at the School of Nuclear Technology, University of Chinese Academy of Sciences, including ...
+
+中国科学院大学粒子物理与原子核物理专业课程笔记，主要包括
+
+- 2025 - 2026：
+  - 原子核结构：主要包括整个课程的教程、笔记以及作业。不同部分的笔记单独做出来只是为了方便 Typora 渲染；
+  - 物理中的统计与概率：笔记即为老师所有讲义的笔记。删减版是期末考试可能考的内容的笔记。；
+  - 核物理实验：情况有变，是我的错；
+  - 粒子物理基础；
+  - 粒子辐射探测方法。
+- 2026 - 2026：…
